@@ -1,0 +1,15 @@
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\Mobile\bin\Debug\net8.0\Mobile.exe
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\Mobile\bin\Debug\net8.0\Mobile.deps.json
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\Mobile\bin\Debug\net8.0\Mobile.runtimeconfig.json
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\Mobile\bin\Debug\net8.0\Mobile.dll
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\Mobile\bin\Debug\net8.0\Mobile.pdb
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\Mobile\obj\Debug\net8.0\Mobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\Mobile\obj\Debug\net8.0\Mobile.AssemblyInfoInputs.cache
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\Mobile\obj\Debug\net8.0\Mobile.AssemblyInfo.cs
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\Mobile\obj\Debug\net8.0\Mobile.csproj.CoreCompileInputs.cache
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\Mobile\obj\Debug\net8.0\Mobile.sourcelink.json
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\Mobile\obj\Debug\net8.0\Mobile.dll
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\Mobile\obj\Debug\net8.0\refint\Mobile.dll
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\Mobile\obj\Debug\net8.0\Mobile.pdb
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\Mobile\obj\Debug\net8.0\Mobile.genruntimeconfig.cache
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\Mobile\obj\Debug\net8.0\ref\Mobile.dll

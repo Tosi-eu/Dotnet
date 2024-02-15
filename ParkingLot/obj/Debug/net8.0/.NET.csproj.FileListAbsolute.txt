@@ -1,0 +1,15 @@
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\ParkingLot\obj\Debug\net8.0\.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\ParkingLot\obj\Debug\net8.0\.NET.AssemblyInfoInputs.cache
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\ParkingLot\obj\Debug\net8.0\.NET.AssemblyInfo.cs
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\ParkingLot\obj\Debug\net8.0\.NET.csproj.CoreCompileInputs.cache
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\ParkingLot\obj\Debug\net8.0\.NET.sourcelink.json
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\ParkingLot\bin\Debug\net8.0\.NET.exe
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\ParkingLot\bin\Debug\net8.0\.NET.deps.json
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\ParkingLot\bin\Debug\net8.0\.NET.runtimeconfig.json
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\ParkingLot\bin\Debug\net8.0\.NET.dll
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\ParkingLot\bin\Debug\net8.0\.NET.pdb
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\ParkingLot\obj\Debug\net8.0\.NET.dll
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\ParkingLot\obj\Debug\net8.0\refint\.NET.dll
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\ParkingLot\obj\Debug\net8.0\.NET.pdb
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\ParkingLot\obj\Debug\net8.0\.NET.genruntimeconfig.cache
+C:\Users\galdi\OneDrive\Ambiente de Trabalho\.NET\ParkingLot\obj\Debug\net8.0\ref\.NET.dll

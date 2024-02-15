@@ -1,0 +1,40 @@
+@model MVC.Models.Contact
+
+@{
+    ViewData["title"] = "Update Contact";
+}
+
+<h1>Update Contact</h1>
+
+<hr/>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Update">
+                <div class="form-group">
+                    <label asp-for="Name" class="control-label"></label>
+                    <input asp-for="Name" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="Phone" class="control-label"></label>
+                    <input asp-for="Phone" class="form-control"/>
+                </div>
+                <br>
+                <div class="form-group">
+                    <label asp-for="Active" class="control-label"></label>
+                    <input type="checkbox" asp-for="Active" class="form-check-input"/>
+                </div>
+                <div class="form-group">
+                </div>
+                <br>
+                <div class="form-group">
+                    <input type="submit" value="Update" class="btn btn-primary" />
+                </div>
+        </form>
+    </div>
+</div>
+</hr>
+<br>
+<div>
+    <a asp-action="Index">Return</a>
+</div>
