@@ -1,0 +1,6 @@
+@API___AZURE_TABLES_HostAddress = http://localhost:5137
+
+GET {{API___AZURE_TABLES_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
